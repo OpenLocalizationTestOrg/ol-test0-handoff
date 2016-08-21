@@ -3,12 +3,11 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c8459468c7f966190ab7e9505cc7f2e8f641fc7c</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\b2a25f4e-355b-41de-a111-75bb050a5ceb.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
-      </xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">875194ca362a94c5b31c9c3e3ec3db6d5b2cefc8</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\531f0908-dc58-46e3-9833-28b5865e4e17.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">047a6f20dc5ecbcba475a2e6d2eba99a4e6a2ce4</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6dfde8bb4f7c5b2dc9e92ba35b9e60fa2289ad0f</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -17,8 +16,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>43e18326-d106-4c6c-9cc8-8c7e121e5637 thanks!</source>
-          <target state="new">43e18326-d106-4c6c-9cc8-8c7e121e5637 thanks!</target>
+          <source>2b60fbf5-0d52-4cba-afd9-09391220d279 thanks!</source>
+          <target state="new">2b60fbf5-0d52-4cba-afd9-09391220d279 thanks!</target>
         </trans-unit>
       </group>
     </body>
