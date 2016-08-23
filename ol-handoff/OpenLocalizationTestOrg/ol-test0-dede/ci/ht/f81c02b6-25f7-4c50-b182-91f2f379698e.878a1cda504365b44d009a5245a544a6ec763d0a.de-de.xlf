@@ -3,11 +3,11 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4fb33c9" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">50ab26d5428755580b2fcf132791b034864dd9f6</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\c8987f25-547a-4daf-b67b-3f66c70f7455.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ce9c04b31a4ec8a479374291a62845a3b7c6c563</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\f81c02b6-25f7-4c50-b182-91f2f379698e.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2cd1dfe9e76be9d1dcb82dc62cd1378de4369d1e</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e974d7768958e7900de6a2d755650bab05147601</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,8 +16,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>ac5ccb2d-6db8-4eb8-8dd9-400c7208a0fe thanks!</source>
-          <target state="new">ac5ccb2d-6db8-4eb8-8dd9-400c7208a0fe thanks!</target>
+          <source>df5da8ac-237b-4e0d-9c2b-1687055162bf thanks!</source>
+          <target state="new">df5da8ac-237b-4e0d-9c2b-1687055162bf thanks!</target>
         </trans-unit>
       </group>
     </body>
