@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b240e74" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">199955ba6072a4c71c38f9b7d93b6b9b96c7a671</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\d1e2288a-746e-40c3-9652-46756e81b961.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d246da31e9b1d26633222c5f918fed6ada7cbcdc</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\daff944e-7f49-425b-a7da-bf6cce5aea18.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">low</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f82aa40a06aca19f1816c284d7f22d1fb11295b2</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">533b660884696f2794d8d228292c4379e975791f</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>OpenLocalization Workflow Test MarkDown ddb1a5df-17d3-49cf-a878-988f3ce952bc thanks!</source>
-          <target state="new">OpenLocalization Workflow Test MarkDown ddb1a5df-17d3-49cf-a878-988f3ce952bc thanks!</target>
+          <source>OpenLocalization Workflow Test MarkDown 6abb4a78-ef29-4807-82ae-4807047adf45 thanks!</source>
+          <target state="new">OpenLocalization Workflow Test MarkDown 6abb4a78-ef29-4807-82ae-4807047adf45 thanks!</target>
         </trans-unit>
       </group>
     </body>
