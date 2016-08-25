@@ -3,11 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b240e74" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c9a898ab2f275a3f2922a5368e99dfd30de7753f</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\01a46352-4d54-4491-9d03-4d153a8f20e0.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9a1c33b59e5cf6a6a891a5a0a3aeebecbf1a037b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\78e30f89-9fb3-451b-8b39-e2b85e3d0cdd.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e7ddb6192ebbdb3fc756094244e0953e2bba97f6</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2e9dbea26ddf67153c42e0687323b555f83650d5</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,8 +17,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>5353d25c-dc43-4256-8488-35ae3a8f2e48 thanks!</source>
-          <target state="new">5353d25c-dc43-4256-8488-35ae3a8f2e48 thanks!</target>
+          <source>9907dadc-5e4e-4127-a632-7eb3746a349e thanks!</source>
+          <target state="new">9907dadc-5e4e-4127-a632-7eb3746a349e thanks!</target>
         </trans-unit>
       </group>
     </body>
