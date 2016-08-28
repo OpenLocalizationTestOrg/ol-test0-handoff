@@ -3,17 +3,17 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b240e74" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e516debb10471fe839c069ef6569e56d0ae1d999</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\6bb38534-2eab-4648-88e3-fcfbcfa9e394.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">854c9ed50c745f243083c8025ca3b49911dafb67</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\47dc4c2d-b016-4c13-b7aa-0338e37abcc1.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">low</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">91ad28f376b22a3e8675c0bb1b3da76387e815e8</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e50f75128ed1f2a74814f34da862fe720f473610</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>OpenLocalization Workflow Test MarkDown efbd3485-db12-40d8-a1e3-db20f8dd567d thanks!</source>
-          <target state="new">OpenLocalization Workflow Test MarkDown efbd3485-db12-40d8-a1e3-db20f8dd567d thanks!</target>
+          <source>OpenLocalization Workflow Test MarkDown 29ed4abc-174e-475c-a03e-35656b616000 thanks!</source>
+          <target state="new">OpenLocalization Workflow Test MarkDown 29ed4abc-174e-475c-a03e-35656b616000 thanks!</target>
         </trans-unit>
       </group>
     </body>
