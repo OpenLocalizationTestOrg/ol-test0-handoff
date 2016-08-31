@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4fb33c9" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9857b4993db503381124fd81a7b73b1c5e24574c</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\0d8a3edc-d791-4780-9ca1-8fe4163633d5.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5da1b061be8aeab4634bff906fc15c4becb56162</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\675a68b2-95f2-4240-bf2b-e4d7c068930f.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
       </xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">887bd3bb43f5f8f39961c25f31587e296e9c1ef8</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">05ce8b2068401ff5bd559105bd233ad0a83d2c96</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -17,8 +17,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>a2d6b62f-b241-49ea-86ba-863d89416302 thanks!</source>
-          <target state="new">a2d6b62f-b241-49ea-86ba-863d89416302 thanks!</target>
+          <source>caa0713f-5849-47ad-9b19-e41262356568 thanks!</source>
+          <target state="new">caa0713f-5849-47ad-9b19-e41262356568 thanks!</target>
         </trans-unit>
       </group>
     </body>
