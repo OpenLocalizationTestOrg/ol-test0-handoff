@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-b240e74" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a5fb4939b84ef46d2b37363698045e4516754c20</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\0ee72efb-bea6-4868-8424-25b27590bf92.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">613af7560c51caa959487c93f363a560d46e8302</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>OpenLocalization Workflow Test MarkDown 512bb459-d9f9-4d35-a30d-ad0db22d6d5c thanks!</source>
+          <target state="new">OpenLocalization Workflow Test MarkDown 512bb459-d9f9-4d35-a30d-ad0db22d6d5c thanks!</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
