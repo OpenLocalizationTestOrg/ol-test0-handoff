@@ -3,13 +3,13 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-4bd6fc0" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">71d31c2d4e2347f85953af978761358768361201</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\0118ca0e-1ba9-428f-9e80-e60d9b520fba.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ccf5c29c31b9b5bd332486d1212e3657570ecf94</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\d3858ecf-8f71-4bd1-8af2-8a94a1759b40.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
       </xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c1b18aad94836cf37b508dabac20d77842ab5e44</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">21e40647057c54f5b1994f204c6177a6b1df0910</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">747c21eb242a76b7d772b330c9dc7fbd35446b87</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e003ff52c7a52b1198285dc6f1cb7693500e8d77</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -18,8 +18,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>023098d7-e07c-42fd-90d1-a35a701bfeb9 thanks!</source>
-          <target state="new">023098d7-e07c-42fd-90d1-a35a701bfeb9 thanks!</target>
+          <source>283bd46f-2d2c-4237-b18d-e56670d0da98 thanks!</source>
+          <target state="new">283bd46f-2d2c-4237-b18d-e56670d0da98 thanks!</target>
         </trans-unit>
       </group>
     </body>
