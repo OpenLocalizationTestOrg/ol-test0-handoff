@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-c5d768e" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">247692ab89d2223cf2639a9dc692629b955bc2fe</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e037024060fd2d7eba37f34c36e59d5e1b3ed5e1</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\79f4ce9c-39ea-47b5-9073-169b98780371.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">229a611576631988ed25d3c3f5878b419e4ac56c</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">477028f91dba14cb951b97dac7f5fc93f1aca79d</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">12beeb856c82ef33f34f4e62539a73f6c849c17c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c7a34f5fdffc8d7db09f043097d341379dc19b74</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -17,8 +17,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>fbf42560-5fa7-476c-93f6-976df3cc0be8 thanks!</source>
-          <target state="new">fbf42560-5fa7-476c-93f6-976df3cc0be8 thanks!</target>
+          <source>92cabd11-8523-444b-a65d-20200a64bda7 thanks!</source>
+          <target state="new">92cabd11-8523-444b-a65d-20200a64bda7 thanks!</target>
         </trans-unit>
       </group>
     </body>
