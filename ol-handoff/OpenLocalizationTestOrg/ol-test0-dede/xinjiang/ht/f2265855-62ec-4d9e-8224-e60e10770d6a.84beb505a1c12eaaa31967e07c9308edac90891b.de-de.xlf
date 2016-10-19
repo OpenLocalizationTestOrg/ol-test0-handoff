@@ -3,13 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-c5d768e" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">99213cd78e8b47bb7e5e81d76b6b5a1ae13818b7</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\d1550f13-2da9-4450-a8e1-0b7bf8bfb566.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
-      </xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5cf6bcfa352a121e9b6e04b022ee4c681c4487dd</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\f2265855-62ec-4d9e-8224-e60e10770d6a.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0808264da5b1e97ab6bf3d037badd7bf8b4c4259</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4814945b2a68949eba937f6b1bbbc8e8cc2dea9e</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">474bda11eb42b8071d4ae2ce76d81dbdacaa2bae</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">28d591aa378a7ada76bb7fa9da4917ec545fe6e5</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -18,8 +17,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>63ea6153-ddd7-49fc-8a18-badcdcde3ff4 thanks!</source>
-          <target state="new">63ea6153-ddd7-49fc-8a18-badcdcde3ff4 thanks!</target>
+          <source>81f37848-3180-481e-bd6d-a6ef7f5593c3 thanks!</source>
+          <target state="new">81f37848-3180-481e-bd6d-a6ef7f5593c3 thanks!</target>
         </trans-unit>
       </group>
     </body>
