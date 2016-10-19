@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-c5d768e" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">165c9701fbb458ad65e0701248b7d38a418a6d2f</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f50ae154399a92d3207fe7e277ba176f22e873fa</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\3304663f-245b-4523-a4de-244871a32b5b.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">356eed34425699200eb3897a6e3029c494d20bd3</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0bef0b275323c60e3843779b31c053d7c0f68c73</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d2943684b82a420d5bbbcc3c07fc95c320a11a44</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">24febf0de2089a2bc83954c53cefc8a7731ae24d</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -17,8 +17,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>5d78e650-0d95-44c2-a651-d939424bbf28 thanks!</source>
-          <target state="new">5d78e650-0d95-44c2-a651-d939424bbf28 thanks!</target>
+          <source>e540afac-11f7-4319-b72d-107b43ef3002 thanks!</source>
+          <target state="new">e540afac-11f7-4319-b72d-107b43ef3002 thanks!</target>
         </trans-unit>
       </group>
     </body>
