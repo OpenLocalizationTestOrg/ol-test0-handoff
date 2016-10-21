@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-2eb3c86" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6b31490687bcc431903b40f1f8dade743c5cd7f9</xliffext:olfilehash>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3787ec86af7fc586b785204c09f36e1b50fcc2ea</xliffext:olfilehash>
       <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\63d6e77c-51c8-42be-942e-6bbb7eaa3bf3.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">dd44390ad718bf38e46ace881dbca41c66b4e51e</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">53833546d1e70d939c83044713d28f225f91e0d0</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e04ac675b129f24ef1cb6b1526eca2f46813a98</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6de597485b222f64a1521c78a74137546f02453a</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -17,8 +17,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>c226a2f8-1853-4a9a-aab6-5a0f7ad0ca79 thanks!</source>
-          <target state="new">c226a2f8-1853-4a9a-aab6-5a0f7ad0ca79 thanks!</target>
+          <source>20edabba-be54-4026-94d7-974d8df719f0 thanks!</source>
+          <target state="new">20edabba-be54-4026-94d7-974d8df719f0 thanks!</target>
         </trans-unit>
       </group>
     </body>
