@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-eac019f" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a39c3915b408458881e1a5705df98f792677fdbf</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\c96a6ecf-09ad-4fbc-bb93-0bc2c625f8d3.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b5d507ebe7b0b241646f74da76be77ee05bd8ccb</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\91f67505-c85e-40b3-925e-b90976650bf8.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">eec5e3503fd200a4db23faaa7ca8df569a1f83ef</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4b5c34ec263f9abd2ba19579ef2ee695814df039</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">972ce07e8a6a24a09a481a839dbbefd0afc1577f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0e002c15bae5ddb24ad7e68ad717abddcdd4ad14</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -17,8 +17,8 @@
           <target state="new">OpenLocalization Workflow Test MarkDown</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>image2<ph id="ph1">](.\d91ead36-14fc-48bf-8dcb-f8e8f57f331f.png)</ph> thanks!</source>
-          <target state="new">image2<ph id="ph1">](.\d91ead36-14fc-48bf-8dcb-f8e8f57f331f.png)</ph> thanks!</target>
+          <source>9e463435-119b-45dc-b221-f826d3944d1d thanks!</source>
+          <target state="new">9e463435-119b-45dc-b221-f826d3944d1d thanks!</target>
         </trans-unit>
       </group>
     </body>
