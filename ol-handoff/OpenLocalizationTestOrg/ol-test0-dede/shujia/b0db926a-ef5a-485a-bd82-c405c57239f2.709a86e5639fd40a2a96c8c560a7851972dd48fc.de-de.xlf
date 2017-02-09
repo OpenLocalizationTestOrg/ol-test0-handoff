@@ -3,12 +3,13 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-f0362aa" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">389a52212c75854f7e1e97153f5342ad7991d120</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\d49875c6-3f41-4110-87a6-a8bf529f51ea.md</xliffext:olfilepath>
-      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f6aa63d44d032539506ab7cad460c7f493fa2307</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\b0db926a-ef5a-485a-bd82-c405c57239f2.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">35b58e67e90b977e8412a0197397fc1fec558b24</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4efa9ca1e70c5518102bc75c19ff3a9332901f4b</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c4a30f9fba7d88663a541e57f417fbca2d424a0c</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">aed371f64f8dfa717f5e3a9b4fc65ebb42c1c30a</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,7 +17,7 @@
           <source>OpenLocalization Workflow Test MarkDown</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>3ec33529-fe21-4f89-9890-31fc1f50d2c8 thanks!</source>
+          <source>1d698480-7081-451d-b5f2-d1ed45e5c7d6 thanks!</source>
         </trans-unit>
       </group>
     </body>
